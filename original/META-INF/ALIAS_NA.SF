@@ -1,0 +1,329 @@
+Signature-Version: 1.0
+Created-By: 24.0.1 (Oracle Corporation)
+SHA1-Digest-Manifest: 3TTSvEqdVQxXLSmT/ANzig4umGU=
+SHA1-Digest-Manifest-Main-Attributes: XPiE1aTcj3fOAygSmU/f0YJ0WSI=
+
+Name: res/raw/type3.jpg
+SHA1-Digest: RTGoQTPfmYvyPkrSE5QQhVAuDSA=
+
+Name: assets/res/layout/cheats.xml
+SHA1-Digest: FJHjQOQiuwT0zCWVPsX2GcgE7Hk=
+
+Name: res/drawable/ic_menu_disconnect.png
+SHA1-Digest: FJ9kENhrUqeyKdLt394UjGth2pI=
+
+Name: lib/armeabi-v7a/libemu.so
+SHA1-Digest: UgJzw2ehU/vgh8K2B5iXOkdIW2g=
+
+Name: lib/armeabi-v7a/libsnes_comp.so
+SHA1-Digest: sqR6SQQCwVIiXZgJMcHIe1L3L2s=
+
+Name: res/drawable/ic_menu_fast_forward.png
+SHA1-Digest: DQ68yBsdbUtDqsxxF6Zkb3d9/NA=
+
+Name: assets/res/drawable/ic_menu_refresh.png
+SHA1-Digest: bo9NRG1OmxluQ4ESU8VA4cDwRzk=
+
+Name: assets/res/drawable/tr_button_bottom.png
+SHA1-Digest: tyU9S8+HkmBh5A/0ILenZVAvb/Y=
+
+Name: assets/res/menu/key_profiles.xml
+SHA1-Digest: vavOrrIHXuNyJgGOK3Wp5RBxl9o=
+
+Name: assets/res/raw/list4.jpg
+SHA1-Digest: AaMZNxpHkM0O1O9Bxd3Vsj0zFpw=
+
+Name: assets/res/layout/game_gripper.xml
+SHA1-Digest: S6x5VLNs7u/T9aZ6qxKtAQDgvBY=
+
+Name: assets/res/layout/shortcut.xml
+SHA1-Digest: vFYPsnqJqo7wP3kJfxj6a0UjmZE=
+
+Name: res/layout/seekbar_dialog.xml
+SHA1-Digest: xD/9z0dgeW96bO848OiVmF4SifY=
+
+Name: res/raw/list3.jpg
+SHA1-Digest: h89b6fLi1rEeIY7bP1AHztqw6mc=
+
+Name: res/drawable/game_gripper.png
+SHA1-Digest: gPFDF9+LSL7jgWfIn7L/yTvGtoE=
+
+Name: assets/res/raw/type4.jpg
+SHA1-Digest: XTcCkBFkG91VZhORsCiewmX0OfQ=
+
+Name: res/drawable/tl_button_bottom.png
+SHA1-Digest: Jp1S1HqGwnq6AU2OXsZuV105B4o=
+
+Name: assets/res/drawable/sdcard.png
+SHA1-Digest: T6URVVJL6OQ88lu36DcN44LXN3U=
+
+Name: res/drawable/select_start_buttons.png
+SHA1-Digest: tzP73RC/fmdSpxgJ3QZulVEGZDQ=
+
+Name: lib/armeabi-v7a/libsnes.so
+SHA1-Digest: EeSVP4NA7IGl36OXEFALnQ9RUqo=
+
+Name: res/drawable/up_dir.png
+SHA1-Digest: yjP5YBhnT+Zq0qaOMTYhmV7U6uU=
+
+Name: assets/res/drawable/tl_button_top.png
+SHA1-Digest: qNKb9/mczYCrAYCVvpI+uYOKfPY=
+
+Name: res/menu/file_chooser.xml
+SHA1-Digest: Mbw9pXuuhrU4MSf77q2QDb6DffE=
+
+Name: assets/res/drawable/ic_menu_open.png
+SHA1-Digest: qxpW9RcWV4VmoyCsyLku3AONoDU=
+
+Name: res/raw/type5.jpg
+SHA1-Digest: 9bI0nd6M8wiiP6ySFoKkCQ38PU0=
+
+Name: assets/res/raw/list2.jpg
+SHA1-Digest: w+lDZwGywgy6KeB97a9HezuUy3Q=
+
+Name: res/drawable/tl_button_top.png
+SHA1-Digest: 6sg4r6m1t89Qe27tzvG17x3Okcs=
+
+Name: res/layout/wifi_connect.xml
+SHA1-Digest: 9ZWOwXdmFAeKK4TZIy/9/xEalwA=
+
+Name: assets/res/layout/new_cheat.xml
+SHA1-Digest: gyt0O3uKXDXTj8VGGQBFaH05vfY=
+
+Name: assets/res/menu/emulator.xml
+SHA1-Digest: 97cFlyKeZdF11vdmwNnp00v4ZRM=
+
+Name: resources.arsc
+SHA1-Digest: dcYMzS6d0+PfhFXYLMTVVtuYJqU=
+
+Name: res/drawable/sdcard.png
+SHA1-Digest: 3/r/sCR9oL+TKC1NPooPVrzmAWs=
+
+Name: assets/res/menu/cheats.xml
+SHA1-Digest: an7AfYXUmZG2MNV036qRc/pawmc=
+
+Name: res/raw/list1.jpg
+SHA1-Digest: OOSIW/yY8sF7tERZijrQ16T3wKI=
+
+Name: assets/res/drawable/buttons.png
+SHA1-Digest: C65G43X4UeAVNrTVHMeTfJlk2b4=
+
+Name: res/layout/shortcut.xml
+SHA1-Digest: /56BMOni+f5ddpAfCZAnE+fjDsE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: BhDJhHoMlqXphQ4QqMw0LtmOqHM=
+
+Name: res/drawable/dpad.png
+SHA1-Digest: VZp9VSCWN8wuZoMIZGotw/t2SWs=
+
+Name: res/drawable/tr_button_top.png
+SHA1-Digest: UQ3pgIe4S5nWan4rQs1jvDz8kWQ=
+
+Name: assets/res/drawable/ic_menu_fast_forward.png
+SHA1-Digest: cpRCKFlx6w8tTT893wX9cGvF+00=
+
+Name: assets/res/raw/list0.jpg
+SHA1-Digest: AcpBuXpW9G+HAGRofSOJq+e3Cgk=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: hP/M30WoqFvmsXDs3FrhGGeNgxI=
+
+Name: assets/res/drawable/game_gripper.png
+SHA1-Digest: VFv/9OycpCzwLoD0XRIVO4F5YxU=
+
+Name: res/layout/state_slot_item.xml
+SHA1-Digest: GjxXfh49seGHir6mwL5j7J0X0gU=
+
+Name: assets/res/drawable/tr_button_top.png
+SHA1-Digest: pUoIjvT0Vt6GEe84EjCrJVQzL/c=
+
+Name: assets/res/layout/device_list.xml
+SHA1-Digest: tqlWXYMgywpcJgQCsJc2Mslw1gU=
+
+Name: assets/res/values/strings.xml
+SHA1-Digest: Wh3v6cC4BIAsN1VS7BO004UHZAo=
+
+Name: assets/res/raw/type0.jpg
+SHA1-Digest: 7a/DWk4RkzkYk6VCC/A/mlrS9oQ=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: nShVUtF2WJdt/ZsCFt5NwHteemY=
+
+Name: res/layout/cheats.xml
+SHA1-Digest: XM9Z3TvZlmID1hxcNWxtPUyLo4A=
+
+Name: res/layout/file_chooser.xml
+SHA1-Digest: RnJS+lGkkW6ZDdZm9nasPiDP39E=
+
+Name: assets/res/menu/file_chooser.xml
+SHA1-Digest: OcKcYfz1+71k0JyMKd/Z3a8FHZg=
+
+Name: assets/res/drawable/ic_menu_disconnect.png
+SHA1-Digest: gT49mkfFBhuVFdgSoaKen82v08s=
+
+Name: assets/res/raw/menu0.jpg
+SHA1-Digest: rBJ8Z8EHawynujzBht13eIqgr1I=
+
+Name: res/layout/new_profile.xml
+SHA1-Digest: Ej9Y3p7dZn3hjbfH43M75nyMNso=
+
+Name: res/raw/type1.jpg
+SHA1-Digest: c6Y28VzB23KZ393nl+Eo6Dq55tQ=
+
+Name: assets/res/raw/type2.jpg
+SHA1-Digest: tcl9j/aOAN2MNvIAWBkjui1yNCg=
+
+Name: assets/res/menu/main.xml
+SHA1-Digest: mi/Nv806p90hoJVVbiP16IJvPmM=
+
+Name: assets/res/layout/state_slot_item.xml
+SHA1-Digest: Plzu4aleQASqqDNrZCQbgjCq8+k=
+
+Name: assets/BOOT
+SHA1-Digest: B6gczAq/dMF8HNemgKBn8mWONJk=
+
+Name: assets/res/drawable/tl_button_bottom.png
+SHA1-Digest: hgUwDWnOi0b4zMdzgAT86yvLTOg=
+
+Name: assets/res/drawable/ic_menu_netplay.png
+SHA1-Digest: QKzv7KktPdYQ9ILKDcU+0fzQKn8=
+
+Name: assets/res/raw/type3.jpg
+SHA1-Digest: 3GU4wWPuADkvm+DW4+FL+lnSPNc=
+
+Name: res/layout/emulator.xml
+SHA1-Digest: 7FPLQ+kTxwp05O9L8GSLsVJxhuc=
+
+Name: res/raw/list4.jpg
+SHA1-Digest: e7RnLoNg/ToCpcNJgRo7fEeVhU0=
+
+Name: assets/res/layout/seekbar_dialog.xml
+SHA1-Digest: dEm9BDT1XeDDu/SflT8p1RRATEk=
+
+Name: res/menu/emulator.xml
+SHA1-Digest: G1TzWXT7dRQwEqO9sBosIDcPXsc=
+
+Name: assets/res/raw/list5.jpg
+SHA1-Digest: Pgny+FFSIEDu6oiHO9j1kYWGhCg=
+
+Name: res/layout/game_gripper.xml
+SHA1-Digest: yR0Hmdgvitt4qO2zjJeAek/45+U=
+
+Name: res/drawable/tr_button_bottom.png
+SHA1-Digest: +EcK8jIT4SHku22Nq0URvg5H1m4=
+
+Name: assets/res/drawable/ic_menu_rom_buddy.png
+SHA1-Digest: erYI/oFV0w2VE1AMAIKKKwEqzrY=
+
+Name: res/raw/type2.jpg
+SHA1-Digest: na7IbmdHlX9Kt23vCxu+Hym4/cM=
+
+Name: res/menu/key_profiles.xml
+SHA1-Digest: 2MsvyXi/+8P8fU4r1m0/MClR+Qg=
+
+Name: assets/res/layout/device_name.xml
+SHA1-Digest: Mr+QM3fscJu+pi5oMEIFHVHkDWU=
+
+Name: assets/res/layout/new_profile.xml
+SHA1-Digest: VboYTh2YUcVfNFr3YZSf9HKaQoo=
+
+Name: res/drawable/buttons.png
+SHA1-Digest: Z41OLYoTcCeBFuZHb5tYY9C0f6E=
+
+Name: assets/res/drawable/dpad.png
+SHA1-Digest: JmZKAAVes3ULMJmkLtFBFz87JXw=
+
+Name: assets/res/raw/list1.jpg
+SHA1-Digest: Z6EWzKpNmCCfIAky7lPXwDaMCm8=
+
+Name: assets/res/raw/type5.jpg
+SHA1-Digest: ECwqTes2OtZq9vL9uDlLGISFSXY=
+
+Name: res/raw/list2.jpg
+SHA1-Digest: jALSCIg+Uh9U2RSik2xO8YCPDPY=
+
+Name: res/raw/list0.jpg
+SHA1-Digest: PUAJnzyICOHdUVyOAeFK4Yzw9Hc=
+
+Name: assets/res/drawable/up_dir.png
+SHA1-Digest: 3RD1ICQunsdTImUNK0McRI+VTyE=
+
+Name: res/raw/type4.jpg
+SHA1-Digest: 2W2v0sN3fbujNL6euPWPyQZQBAw=
+
+Name: assets/res/raw/list3.jpg
+SHA1-Digest: L3MLzmJ6RamuLhNm0/obqtRPwmk=
+
+Name: assets/res/layout/wifi_connect.xml
+SHA1-Digest: Z+dcg8u76y9BzZ3Jqy0T18OSD5I=
+
+Name: assets/GUI/Back.png
+SHA1-Digest: /kRk12JFT5qr4xWABqsFUTeaJLg=
+
+Name: res/drawable/ic_menu_netplay.png
+SHA1-Digest: 9Uk4lWuXYh8CAoqpMH9Vu3nYIO4=
+
+Name: assets/res/xml/preferences.xml
+SHA1-Digest: C3rYNLdoohfgDqQ3IhKc6/IZejg=
+
+Name: res/layout/device_list.xml
+SHA1-Digest: CRQh92Rrq7NSp5fwTCepVPG6644=
+
+Name: lib/armeabi-v7a/libnativehelper.so
+SHA1-Digest: S1XG2+mv1n7Jdf4c1SAXFmc/PxE=
+
+Name: res/drawable/ic_menu_rom_buddy.png
+SHA1-Digest: YeeTqrs+uKxyVkRxLg8ooJXX6CU=
+
+Name: res/menu/main.xml
+SHA1-Digest: /crqVyb1HZm2X4xeQ7eH4lgMXc8=
+
+Name: assets/res/layout/emulator.xml
+SHA1-Digest: zZstkNpsq11U++KSCdaoBjMo8Sg=
+
+Name: assets/res/drawable/select_start_buttons.png
+SHA1-Digest: NZ5Y+wVCZqLcJFlcAuNkn4t/zcY=
+
+Name: res/drawable/ic_menu_refresh.png
+SHA1-Digest: U0F+qM/Fo1NAxFH4rzRij1WEAAA=
+
+Name: res/layout/device_name.xml
+SHA1-Digest: 6AwboQRWYbdzNIAOeUVpJr81Sv4=
+
+Name: assets/res/drawable/app_icon.png
+SHA1-Digest: VnsDRjc/XSS+lnu81cIOO7PHBcg=
+
+Name: assets/res/layout/file_chooser.xml
+SHA1-Digest: T9RTLTGwKN/ZNxt0S0GCoWWpvek=
+
+Name: res/layout/new_cheat.xml
+SHA1-Digest: odTB2NbOCTqPbWoweDJejoZ4Tno=
+
+Name: assets/res/raw/type1.jpg
+SHA1-Digest: fWCovncD1EiRjr/kIiAaypzqIPs=
+
+Name: res/menu/cheats.xml
+SHA1-Digest: 5OGOFJqVMxECSgRQpcszUeb/1iA=
+
+Name: assets/res/values/arrays.xml
+SHA1-Digest: XvhnbbdVBMWrrWEWvgjHcH8t4q4=
+
+Name: res/raw/list5.jpg
+SHA1-Digest: 8JZ/+QqCSOVW8JYO7nmbdVuRezs=
+
+Name: assets/GUI/List.jpg
+SHA1-Digest: I3eOwfOwf3Jjk9S2EtYyxyCngFQ=
+
+Name: res/drawable/ic_menu_open.png
+SHA1-Digest: to/cqaQSO9beI1iQcKKa2ieLg4M=
+
+Name: res/raw/menu0.jpg
+SHA1-Digest: qQbwlaLSiSCW9i4ZyzISvFTWBwo=
+
+Name: classes.dex
+SHA1-Digest: yNZ6AtpQiCLCdM22JmzI8/GVNJg=
+
+Name: res/raw/type0.jpg
+SHA1-Digest: 0WE2PojIpgFRcj86TNg277Q6/+c=
+
